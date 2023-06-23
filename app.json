@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "All-India-Radio",
-    "slug": "All-India-Radio",
+    "name": "Test",
+    "slug": "Test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
